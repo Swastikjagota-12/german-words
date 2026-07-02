@@ -13,6 +13,12 @@
     height="700px">
 </iframe>
 
+<a href="pdf1.pdf" download>Download PDF</a>
+<iframe
+    src="pdf1.pdf"
+    width="100%"
+    height="700px">
+</iframe>
 
 </body>
 </html>
